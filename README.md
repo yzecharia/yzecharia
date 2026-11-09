@@ -39,6 +39,7 @@ Electrical Engineering graduate (B.Sc., Ariel University, computers and communic
 
 ## Also
 
+- [**alu-uvm-testbench**](https://github.com/yzecharia/alu-uvm-testbench) – a UVM 1.2 testbench around a small ALU, written while working through *The UVM Primer*: tester and driver over a TLM FIFO, monitors on analysis ports, scoreboard, functional coverage, two tests passing in xsim. No sequences yet; that is the next chapter.
 - [**hdl-bits-solutions**](https://github.com/yzecharia/hdl-bits-solutions) – most of HDLBits from the flip-flops chapter onward, one module per problem with a schematic next to it.
 
 ## Tools & skills
